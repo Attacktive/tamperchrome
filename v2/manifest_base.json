@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Tamper Dev",
   "version": "2",
   "description" : "Intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy.",
